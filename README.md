@@ -2,7 +2,7 @@
 Assignments for https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 This was my first time taking a Data Science course. I learned so much!
 
-Here is a summary of this repositories conents:
+Here is a summary of this repositorie's conents:
 
 1 - 
 
